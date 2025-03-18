@@ -80,7 +80,7 @@ npm run test-gui
 ```
 
 ## Questions
-- For Further Questions and Bug reports Please reach out to me at Github [sidhuad](https://github.com/gh0st0wls) or email me at adarshsidhu83@gmaail.com
+- For Further Questions and Bug reports Please reach out to me at Github [Dylan](https://github.com/gh0st0wls) or email me at dylanbender3@gmail.com
 
 ## Links
 - [Deployed link](https://cicdproject-vu6h.onrender.com/)
