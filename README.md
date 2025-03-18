@@ -22,11 +22,12 @@
 - [Tests](#tests)
 - [Questions](#questions)
 - [Links](#links)
+- [Contributors](#contributors)
 
 ## Installation
 1. Clone this repository to your local machine:
 ```
-git clone git@github.com:sidhuad/CICDProject.git
+git clone https://github.com/gh0st0wls/ContinuousID
 ```
 
 2. Install the necessary dependencies:
@@ -79,8 +80,11 @@ npm run test-gui
 ```
 
 ## Questions
-- For Further Questions and Bug reports Please reach out to me at Github [sidhuad](https://github.com/sidhuad) or email me at adarshsidhu83@gmaail.com
+- For Further Questions and Bug reports Please reach out to me at Github [sidhuad](https://github.com/gh0st0wls) or email me at adarshsidhu83@gmaail.com
 
 ## Links
 - [Deployed link](https://cicdproject-vu6h.onrender.com/)
-- [Github repo](https://github.com/sidhuad/CICDProject)
+- [Github repo](https://github.com/gh0st0wls/ContinuousID)
+
+## Contributors
+Special thank you to Harriet, phil, and Sidhu for their help! 
